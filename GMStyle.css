@@ -1,0 +1,95 @@
+/*page*/
+body {
+    background-color:#EBF4FA;
+		font-family: helvetica;
+    font-weight: bold;
+    color:#FFFFFF;
+}
+
+h2 {
+    font-size: 18pt;
+    margin-bottom: 15px;
+}
+
+a:link {color:#000080;}   
+a:visited {color:#000080;} 
+a:hover {color:#808080;}  
+a:active {color:#808080;}  
+a:link {text-decoration:none;}
+
+/*tiles and colours*/
+#main-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+.tile {
+    width: 525px;
+    height: 275px;
+    margin: 5px;
+    padding: 20px;
+    float: left;
+}
+.tile-half {
+    width: 275px;
+    height: 100px;
+    margin: 5px;
+    padding: 20px;
+    float: right;    
+}
+.tile-thin {
+    width: 525px;
+    height: 75px;
+    margin: 5px;
+    padding: 20px;
+    float: left;
+}
+
+.lightorange {
+    background-color:#ffcc33;
+}
+
+.mediumorange {
+    background-color:#ff9933;
+}
+
+.darkorange {
+    background-color:#cc3300;
+}
+
+/*extras */
+#email {
+    margin-top: 40px;
+}
+
+#facebook {
+	  list-style:none;
+    padding-left:0;
+		width: 50px;	
+		height: 50px;
+    margin-top: 2px;
+		margin-left: 0px;
+		margin-right: 10px;
+		float: left;
+}
+
+#twitter {
+	  list-style:none;
+    padding-left:0;
+		width: 50px;	
+		height: 50px;
+    margin-top: 2px;
+		margin-left: 5px;
+		margin-right: 5px;
+		float: left;
+}
+
+#linkedin {
+	  list-style:none;
+    padding-left:0;
+		width: 50px;	
+		height: 50px;
+    margin-top: 2px;
+		margin-left: 10px;
+	  margin-right: 0px;
+		float: left;
+}

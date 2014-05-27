@@ -20,19 +20,14 @@ a:link {text-decoration:none;}
 /*tiles and colours*/
 #main-container {
     max-width: 900px;
-		min-width: 900px;
     margin: 0 auto;
-
 }
 .tile {
-    width: 550px;
+    width: 525px;
     height: 275px;
     margin: 5px;
     padding: 20px;
     float: left;
-		border-style:dashed dashed dashed dashed;
-    border-width:1px;
-		border-color:#000080;
 }
 .tile-half {
     width: 275px;
@@ -42,7 +37,7 @@ a:link {text-decoration:none;}
     float: right;    
 }
 .tile-thin {
-    width: 550px;
+    width: 525px;
     height: 75px;
     margin: 5px;
     padding: 20px;
@@ -62,19 +57,6 @@ a:link {text-decoration:none;}
 }
 
 /*extras */
-#face { 
-background-image: url(gmilneface.jpg); 
-background-size:95px 100px;
-width: 95px; 
-height: 100px;
-float: right;
-top:-10px;
-right:-5px;
-border-style:dashed dashed dashed dashed;
-border-width:1px;
-border-color:#000080;
-}
-
 #email {
     font-size: 12pt;
 }

@@ -8,12 +8,13 @@ body {
 
 h2 {
     font-size: 18pt;
-    margin-bottom: 15px;
+		margin-bottom: 5px;
+    color:#000080;
 }
 h3 {
     font-size: 16pt;
-    margin-bottom: 15px;
-    color:#00008;
+		margin-bottom: 5px;
+    color:#000080;
 }
 a:link {color:#000080;}   
 a:visited {color:#000080;} 
@@ -30,27 +31,28 @@ a:link {text-decoration:none;}
 }
 .tile {
     width: 550px;
-    height: 500px;
+    height: 530px;
     margin: 5px;
     padding: 20px;
     float: left;
-		border-style:dashed dashed dashed dashed;
+border-style:dashed dashed dashed dashed;
     border-width:1px;
-		border-color:#000080;
+border-color:#000080;
 }
 .tile-half {
     width: 275px;
     height: 125px;
     margin: 5px;
-    padding: 5px;
+    padding-top: 0px;
+		padding-left: 10px;
     float: right;    
 }
 .tile-thin {
-    width: 550px;
-    height: 70px;
-    margin: 5px;
-    padding: 20px;
-    float: left;
+    width: 850px;
+    height: 10px;
+		margin: 5px;
+		padding: 10px;
+		float: left;
 }
 
 .lightorange {
@@ -68,19 +70,15 @@ a:link {text-decoration:none;}
 /*extras */
 #face { 
 background-image: url(gmilneface.jpg); 
-background-size:150px 155px;
-width: 150px; 
-height: 155px;
+background-size:155px 160px;
+width: 155px; 
+height: 160px;
 float: right;
 top:-10px;
 right:-5px;
 border-style:dashed dashed dashed dashed;
 border-width:1px;
 border-color:#000080;
-}
-
-#email {
-    font-size: 12pt;
 }
 
 #facebook {

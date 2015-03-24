@@ -30,7 +30,7 @@ a:link {text-decoration:none;}
 }
 .tile {
     width: 550px;
-    height: 440px;
+    height: 480px;
     margin: 5px;
     padding: 20px;
     float: left;
@@ -40,14 +40,14 @@ a:link {text-decoration:none;}
 }
 .tile-half {
     width: 275px;
-    height: 110px;
+    height: 120px;
     margin: 5px;
     padding: 5px;
     float: right;    
 }
 .tile-thin {
     width: 550px;
-    height: 75px;
+    height: 70px;
     margin: 5px;
     padding: 20px;
     float: left;

@@ -1,8 +1,8 @@
 /*page*/
 body {
     background-color:#EBF4FA;
-		font-family: helvetica;
-    font-weight: bold;
+		font-family: Arial;
+    font-weight: normal;
     color:#FFFFFF;
 }
 
@@ -19,14 +19,14 @@ a:link {text-decoration:none;}
 
 /*tiles and colours*/
 #main-container {
-    max-width: 900px;
-		min-width: 900px;
+    max-width: 900px;	
+    min-width: 900px;
     margin: 0 auto;
 
 }
 .tile {
     width: 550px;
-    height: 275px;
+    height: 550px;
     margin: 5px;
     padding: 20px;
     float: left;

@@ -49,9 +49,10 @@ border-color:#000080;
 }
 .tile-thin {
     width: 850px;
-    height: 10px;
+    height: 20px;
 		margin: 5px;
-		padding: 10px;
+    padding-top: 2px;
+		padding-left: 10px;
 		float: left;
 }
 

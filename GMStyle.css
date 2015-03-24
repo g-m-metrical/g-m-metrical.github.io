@@ -26,7 +26,7 @@ a:link {text-decoration:none;}
 }
 .tile {
     width: 550px;
-    height: 550px;
+    height: 500px;
     margin: 5px;
     padding: 20px;
     float: left;
@@ -90,7 +90,7 @@ border-color:#000080;
 		float: left;
 }
 
-#twitter {
+#rearchgate {
 	  list-style:none;
     padding-left:0;
 		width: 50px;	

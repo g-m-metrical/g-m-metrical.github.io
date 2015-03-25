@@ -47,9 +47,10 @@ border-color:#000080;
 	padding-left: 10px;
     float: right;    
 }
-.tile-halflogos {
+.tile-half {
     width: 275px;
     height: 135px;
+    margin: 5px;
     padding-top: 0px;
 	padding-left: 10px;
     float: right;    

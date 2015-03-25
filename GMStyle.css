@@ -44,7 +44,15 @@ border-color:#000080;
     height: 135px;
     margin: 5px;
     padding-top: 0px;
-		padding-left: 10px;
+	padding-left: 10px;
+    float: right;    
+}
+.tile-halflogos {
+    width: 275px;
+    height: 135px;
+    margin: 5px;
+    padding-top: 0px;
+	padding-left: 0px;
     float: right;    
 }
 .tile-thin {

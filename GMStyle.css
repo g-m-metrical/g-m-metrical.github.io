@@ -104,8 +104,7 @@ border-color:#000080;
 		width: 50px;	
 		height: 50px;
     		margin-top: 10px;
-		margin-left: 5px;
-		margin-right: 5px;
+		margin-right: 10px;
 		float: left;
 }
 #github {
@@ -113,15 +112,14 @@ border-color:#000080;
 		width: 50px;	
 		height: 50px;
     		margin-top: 10px;
-		margin-left: 5px;
-		margin-right: 5px;
+		margin-right: 10px;
 		float: left;
 }
 #linkedin {
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
-		margin-top: 10px;
-	  	margin-left: 10px;
+    		margin-top: 10px;
+		margin-right: 10px;
 		float: left;
 }

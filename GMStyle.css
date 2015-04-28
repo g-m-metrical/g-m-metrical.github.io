@@ -79,9 +79,9 @@ float: left;
 /*extras */
 #face { 
 background-image: url(face.jpg); 
-background-size:140px 160px;
+background-size:140px 165px;
 width: 140px; 
-height: 160px;
+height: 165px;
 float: right;
 top:-10px;
 right:-5px;

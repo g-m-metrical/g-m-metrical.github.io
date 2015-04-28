@@ -96,8 +96,8 @@ border-color:#000080;
 		height: 50px;
     		margin-top: 20px;
     		margin-left: 2px;
-		margin-right: 2px;
-				float:right;
+		margin-right: 5px;
+		float:left;
 }
 
 #researchgate {
@@ -106,24 +106,22 @@ border-color:#000080;
 		height: 50px;
     		margin-top: 20px;
     		margin-left: 2px;
-		margin-right: 2px;
-				float:right;
+		margin-right: 5px;
+		float:left;
 }
 #github {
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
     		margin-top: 20px;
-    		margin-left: 2px;
-		margin-right: 2px;
-				float:right;
+		margin-right: 5px;
+		float:left;
 }
 #linkedin {
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
     		margin-top: 20px;
-    		margin-left: 2px;
-		margin-right: 2px;
-		float:right;
+		margin-right: 5px;
+		float:left;
 }

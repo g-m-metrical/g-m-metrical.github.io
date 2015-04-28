@@ -44,7 +44,7 @@ border-color:#000080;
     height: 135px;
     margin: 5px;
     padding-top: 0px;
-    padding-left: -45px;
+    padding-left: 0px;
     float: right;    
 }
 .tile-half {
@@ -91,31 +91,6 @@ border-color:#000080;
 }
 
 #facebook {
-	  list-style:none;
-		width: 50px;	
-		height: 50px;
-    		margin-top: 20px;
-		margin-right: 5px;
-		float:left;
-}
-
-#researchgate {
-	  list-style:none;
-		width: 50px;	
-		height: 50px;
-    		margin-top: 20px;
-		margin-right: 5px;
-		float:left;
-}
-#github {
-	  list-style:none;
-		width: 50px;	
-		height: 50px;
-    		margin-top: 20px;
-		margin-right: 5px;
-		float:left;
-}
-#linkedin {
 	  list-style:none;
 		width: 50px;	
 		height: 50px;

@@ -94,8 +94,8 @@ border-color:#000080;
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
-    		margin-top: 10px;
-		margin-right: 10px;
+    		margin-top: 15px;
+		margin-right: 0px;
 		float: left;
 }
 
@@ -103,23 +103,23 @@ border-color:#000080;
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
-    		margin-top: 10px;
-		margin-right: 10px;
+    		margin-top: 15px;
+		margin-right: 0px;
 		float: left;
 }
 #github {
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
-    		margin-top: 10px;
-		margin-right: 10px;
+    		margin-top: 15px;
+		margin-right: 0px;
 		float: left;
 }
 #linkedin {
 	  list-style:none;
 		width: 50px;	
 		height: 50px;
-    		margin-top: 10px;
-		margin-right: 10px;
+    		margin-top: 15px;
+		margin-right: 0px;
 		float: left;
 }
